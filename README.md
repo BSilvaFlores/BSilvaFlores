@@ -12,6 +12,10 @@
 ![Npm](http://img.shields.io/badge/-Npm-white?style=flat-square&logo=npm&logoColor=white)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode&logoColor=3aa7f2)
 
+* Contact
+
+<a href="https://www.linkedin.com/in/basti%C3%A1n-silva-7466a91a9/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:bastynicolas19@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <!--
 **BSilvaFlores/BSilvaFlores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
